@@ -1,5 +1,5 @@
 let lastTime = new Date(0);
-const intervalMs = 10 * 1000;
+const intervalMs = 5 * 60 * 1000;
 
 export function attempt(): boolean {
   const now = new Date();

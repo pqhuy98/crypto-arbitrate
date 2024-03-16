@@ -37,6 +37,7 @@ module.exports = {
     "no-param-reassign": "off",
     "no-restricted-syntax": "off",
     "new-cap": "off",
+    "no-continue": "off",
     "max-len": ["warn", { "code": 140 }],
     "no-await-in-loop": "off",
     "no-mixed-operators": "off",
